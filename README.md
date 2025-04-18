@@ -94,26 +94,6 @@ npm start
 
 React dev server will start on http://localhost:3000
 
-📁 Project Structure
-php
-Copy
-Edit
-PlagChecker/
-│
-├── backend/
-│   ├── app.py
-│   ├── optimized_ensemble_model.pkl
-│   ├── tfidf_vectorizer.pkl
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   └── package.json
-│
-├── dataset/
-│   └── dataset.csv  # Optional if you want to retrain
-└── README.md
 
 
 📊 Model Evaluation
